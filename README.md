@@ -1,2 +1,2 @@
 # BelajarGithub
-Belajar GitHub dengan Dicoding
+Kita akan mempelajari cara penggunaan guthub
